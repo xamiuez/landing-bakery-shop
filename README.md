@@ -34,8 +34,8 @@
 ## ⚙️ Запуск проекта
 
 ```bash
-git clone https://github.com/username/Landing-Page-Bakery-Shop.git
-cd Landing-Page-Bakery-Shop
+git clone https://github.com/xamiuez/landing-bakery-shop.git
+cd landing-bakery-shop
 ```
 
 **открыть `src/index.html` в браузере**

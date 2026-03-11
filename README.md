@@ -27,7 +27,7 @@
 
 ## 📸 Скриншоты
 
-![[hero-section.png]]
+![](./assets/hero-section.png)
 
 ---
 

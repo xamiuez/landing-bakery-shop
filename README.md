@@ -39,5 +39,3 @@ cd landing-bakery-shop
 ```
 
 **открыть `src/index.html` в браузере**
-
----ылки
